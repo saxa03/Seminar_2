@@ -20,3 +20,4 @@ else
 Console.WriteLine("не кратно");
 Console.WriteLine($"остаток {num1 - num2*N}");
 }
+Console.WriteLine($"{num1%num2}");// вариант второй
